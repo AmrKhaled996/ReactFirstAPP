@@ -2,7 +2,7 @@
   "name": "reacttraining",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://amrkhaled996.github.io/ReactFirstAPP",
+  "homepage": "https://amrkhaled996.github.io/ReactFirstAPP/",
   "type": "module",
   "scripts": {
     "dev": "vite",
